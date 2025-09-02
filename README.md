@@ -1,4 +1,4 @@
-# dersevaAntiCheatPackage
+# derseva's Anti Cheat (Android)
 Over 50+ seperate scripts for different modding detections.
 ----
 Many advanced scripts for preventing modding/hacking.
