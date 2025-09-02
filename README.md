@@ -11,7 +11,7 @@ Many advanced scripts for preventing modding/hacking.
 - No punishment.
 # Read this
 This is licensed on CC BY-NC-SA.
-CC: Stands for Creative Commons, the organization that created this license. 
-BY: Stands for "Attribution". You must credit derseva (Original Creator/Author). 
-NC: Stands for "NonCommercial". You cannot use the work for commercial purposes or to make money. 
-SA: Stands for "ShareAlike". Any adaptations you make must be distributed under the same CC BY-NC-SA license. 
+- CC: Stands for Creative Commons, the organization that created this license. 
+- BY: Stands for "Attribution". You must credit derseva (Original Creator/Author). 
+- NC: Stands for "NonCommercial". You cannot use the work for commercial purposes or to make money. 
+- SA: Stands for "ShareAlike". Any adaptations you make must be distributed under the same CC BY-NC-SA license. 
